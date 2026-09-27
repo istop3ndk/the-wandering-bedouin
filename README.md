@@ -4,7 +4,7 @@ A desert action roguelike: auto-firing skills, a passive tree, rifts, trials, id
 
 ## Download and play (Windows)
 
-1. Open **[Releases](../../releases)** → **The Wandering Bedouin 1.0.0** → download `The Wandering Bedouin 1.0.0 (Windows).zip`.
+1. Open the **[latest release](../../releases/latest)** and download the Windows zip (`The-Wandering-Bedouin-<version>-Windows.zip`).
 2. Extract the zip anywhere.
 3. Run **The Wandering Bedouin.exe**.
 
